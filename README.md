@@ -1,0 +1,2 @@
+# airline-reservation-system
+Airline reservation systems are part of the so-called passenger service systems , which are applications supporting the direct contact with the passenger.  Airline Reservation System eventually evolved into the computer reservations system. A computer reservation system is used for the reservations of a particular airline and interfaces with a global distribution system which supports travel agencies and other distribution channels in making reservations for most major airlines in a single system.
